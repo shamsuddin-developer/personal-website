@@ -9,20 +9,18 @@ body {
 img {
   width: 100%;
 }
-h1,
-h2,
-h3,
-h4 {
-  font-family: "Libre Baskerville", serif;
-}
+
 h1 {
   font-size: 46px;
+  font-family: "Libre Baskerville", serif;
 }
 h2 {
   font-size: 36px;
+  font-family: "Libre Baskerville", serif;
 }
 h3 {
   font-size: 18px;
+  font-family: "Libre Baskerville", serif;
 }
 section {
   height: 450px;
